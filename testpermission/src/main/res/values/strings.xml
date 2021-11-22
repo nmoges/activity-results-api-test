@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">testpermission</string>
+    <string name="permission_granted">Permission granted</string>
+    <string name="all_permission_granted">All permissions granted</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="package_name">package:com.testpermission</string>
+</resources>

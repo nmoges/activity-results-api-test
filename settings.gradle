@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "activity-results-api-test"
 include ':testwithcustomcontract'
+include ':testpermission'
