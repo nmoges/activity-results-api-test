@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">activity-results-api-test</string>
+    <string name="text_main_activity">No text</string>
+    <string name="edit_text_second_activity">Enter text</string>
+    <string name="btn_main_activity">GO TO NEXT ACTIVITY</string>
+    <string name="btn_second_activity">SEND STRING</string>
+</resources>
