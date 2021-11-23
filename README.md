@@ -6,4 +6,5 @@ Use cases :
 - Requesting a permission;
 - Requesing several permission;
 - Requesting a picture from camera.
+
 Other use cases might be added. 
